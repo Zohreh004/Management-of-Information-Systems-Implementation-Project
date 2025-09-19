@@ -1,4 +1,4 @@
-# Management-of-Information-Systems-Implementation-Project
+# Management-of-Information-Systems-Project
 # Analyzing Consumer Behavior on Social Media Using BI Tools  
 *A Sentiment Analysis Case Study on U.S. Airlines*
 
